@@ -4,5 +4,6 @@
 <body>
 	<h1>Welcome to DEVOPS</h1>
 	<h2>Semster seven</h2>
+	<h3>added car.jpg</h3>
 </body>
 </html>
